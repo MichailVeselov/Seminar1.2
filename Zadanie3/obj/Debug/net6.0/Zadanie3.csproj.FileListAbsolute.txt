@@ -1,0 +1,15 @@
+C:\REPO\Seminar 1.2\Zadanie3\obj\Debug\net6.0\Zadanie3.csproj.AssemblyReference.cache
+C:\REPO\Seminar 1.2\Zadanie3\obj\Debug\net6.0\Zadanie3.GeneratedMSBuildEditorConfig.editorconfig
+C:\REPO\Seminar 1.2\Zadanie3\obj\Debug\net6.0\Zadanie3.AssemblyInfoInputs.cache
+C:\REPO\Seminar 1.2\Zadanie3\obj\Debug\net6.0\Zadanie3.AssemblyInfo.cs
+C:\REPO\Seminar 1.2\Zadanie3\obj\Debug\net6.0\Zadanie3.csproj.CoreCompileInputs.cache
+C:\REPO\Seminar 1.2\Zadanie3\bin\Debug\net6.0\Zadanie3.exe
+C:\REPO\Seminar 1.2\Zadanie3\bin\Debug\net6.0\Zadanie3.deps.json
+C:\REPO\Seminar 1.2\Zadanie3\bin\Debug\net6.0\Zadanie3.runtimeconfig.json
+C:\REPO\Seminar 1.2\Zadanie3\bin\Debug\net6.0\Zadanie3.dll
+C:\REPO\Seminar 1.2\Zadanie3\bin\Debug\net6.0\Zadanie3.pdb
+C:\REPO\Seminar 1.2\Zadanie3\obj\Debug\net6.0\Zadanie3.dll
+C:\REPO\Seminar 1.2\Zadanie3\obj\Debug\net6.0\refint\Zadanie3.dll
+C:\REPO\Seminar 1.2\Zadanie3\obj\Debug\net6.0\Zadanie3.pdb
+C:\REPO\Seminar 1.2\Zadanie3\obj\Debug\net6.0\Zadanie3.genruntimeconfig.cache
+C:\REPO\Seminar 1.2\Zadanie3\obj\Debug\net6.0\ref\Zadanie3.dll

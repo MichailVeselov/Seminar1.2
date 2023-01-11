@@ -4,6 +4,12 @@
 // 782 -> 8
 // 918 -> 1
 
-string a = 782.ToString();
+int number = 456;
 
-Console.WriteLine(a[1]);
+while (number >= 100)
+{
+  number = number / 10;
+
+}
+
+Console.WriteLine(number % 10);
